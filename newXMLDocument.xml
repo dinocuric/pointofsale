@@ -1,0 +1,977 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+   <artikli>
+            <artikal1>
+            <naziv>TOPLI NAPITCI</naziv>
+            <id>1</id>
+            
+            <podartikal1>
+                <id>101</id>
+                <naziv>Espreso kafa</naziv>
+                <cijena>1,5</cijena>
+            </podartikal1>
+            
+            
+            <podartikal2>
+                <id>102</id>
+                <naziv>Kafa sa mlijekom</naziv>
+                <cijena>1,5</cijena>
+            </podartikal2>
+            
+            <podartikal3>
+                <id>103</id>
+                <naziv>Kafa sa slagom</naziv>
+                <cijena>2</cijena>
+            </podartikal3>
+            
+             <podartikal4>
+                <id>104</id>
+                <naziv>Topla cokolada</naziv>
+                <cijena>3</cijena>
+            </podartikal4>
+            
+             <podartikal5>
+                <id>105</id>
+                <naziv>Cappuccino veliki</naziv>
+                <cijena>2</cijena>
+            </podartikal5>
+            
+             <podartikal6>
+                <id>106</id>
+                <naziv>Makiato mali</naziv>
+                <cijena>1,5</cijena>
+            </podartikal6>
+            
+             <podartikal7>
+                <id>107</id>
+                <naziv>Makiato veliki</naziv>
+                <cijena>2</cijena>
+            </podartikal7>
+            
+             <podartikal8>
+                <id>108</id>
+                <naziv>Latte makiato</naziv>
+                <cijena>2.5</cijena>
+            </podartikal8>
+            
+             <podartikal9>
+                <id>109</id>
+                <naziv>Ledena kafa</naziv>
+                <cijena>2.5</cijena>
+            </podartikal9>
+            
+             <podartikal10>
+                <id>110</id>
+                <naziv>Nesscafe(vanilija,cokolada)</naziv>
+                <cijena>2.5</cijena>
+            </podartikal10>
+            
+             <podartikal11>
+                <id>111</id>
+                <naziv>Nesscafe klasik</naziv>
+                <cijena>2.5</cijena>
+            </podartikal11>
+            
+             <podartikal12>
+                <id>112</id>
+                <naziv>Caj</naziv>
+                <cijena>1.5</cijena>
+            </podartikal12>
+            
+                <podartikal13>
+                <id>113</id>
+                <naziv>Casa mlijeka</naziv>
+                <cijena>2</cijena>
+            </podartikal13>
+            </artikal1>
+        
+        
+            <artikal2>
+            <naziv>PIVO</naziv>
+            <id>2</id>
+            
+            <podartikal14>
+                <id>114</id>
+                <naziv>Karlovaclo pivo</naziv>
+                <cijena>3</cijena>
+            </podartikal14>
+            
+            <podartikal15>
+                <id>115</id>
+                <naziv>Heineken</naziv>
+                <cijena>4</cijena>
+            </podartikal15>
+            
+             <podartikal16>
+                <id>116</id>
+                <naziv>Karlovacko radler</naziv>
+                <cijena>3</cijena>
+            </podartikal16>
+            
+             <podartikal17>
+                <id>117</id>
+                <naziv>Sarajevsko pivo</naziv>
+                <cijena>3</cijena>
+            </podartikal17>
+            
+             <podartikal18>
+                <id>118</id>
+                <naziv>Heineken 0%</naziv>
+                <cijena>4</cijena>
+            </podartikal18>
+            
+             <podartikal19>
+                <id>119</id>
+                <naziv>Karlovacko toceno 0,30l</naziv>
+                <cijena>2.5</cijena>
+            </podartikal19>
+            
+             <podartikal20>
+                <id>120</id>
+                <naziv>Corona</naziv>
+                <cijena>6</cijena>
+            </podartikal20>
+            
+             <podartikal21>
+                <id>121</id>
+                <naziv>Ice smirnoff</naziv>
+                <cijena>6</cijena>
+            </podartikal21>
+            
+             <podartikal22>
+                <id>122</id>
+                <naziv>Karlovacko toceno 0,50l</naziv>
+                <cijena>4</cijena>
+            </podartikal22>
+            
+             <podartikal23>
+                <id>123</id>
+                <naziv>Somersby</naziv>
+                <cijena>4</cijena>
+            </podartikal23>
+            </artikal2>
+        
+        
+            <artikal3>
+            <naziv>VINO</naziv>
+            <id>3</id>
+            
+            <podartikal24>
+                <id>124</id>
+                <naziv>Bijelo/Crno vino 0,20l</naziv>
+                <cijena>5</cijena>
+            </podartikal24>
+            
+            <podartikal25>
+                <id>125</id>
+                <naziv>Bijelo/Crno vino 1L</naziv>
+                <cijena>40</cijena>
+            </podartikal25>
+            </artikal3>
+        
+        
+            <artikal4>
+            <naziv>PRIRODNI NAPICI</naziv>
+            <id>4</id>
+            
+             <podartikal26>
+                <id>126</id>
+                <naziv>limunada Trendy</naziv>
+                <cijena>3.5</cijena>
+            </podartikal26>
+            
+              <podartikal27>
+                <id>127</id>
+                <naziv>Limunada(1kugla sladoleda)</naziv>
+                <cijena>3.5</cijena>
+            </podartikal27>
+            
+              <podartikal28>
+                <id>128</id>
+                <naziv>Vitaminski sok</naziv>
+                <cijena>5</cijena>
+            </podartikal28>
+            
+              <podartikal29>
+                <id>129</id>
+                <naziv>Limunada</naziv>
+                <cijena>2.5</cijena>
+            </podartikal29>
+            
+              <podartikal30>
+                <id>130</id>
+                <naziv>limun,narandza</naziv>
+                <cijena>4</cijena>
+            </podartikal30>
+            
+              <podartikal31>
+                <id>131</id>
+                <naziv>mix</naziv>
+                <cijena>5</cijena>
+            </podartikal31>
+            
+              <podartikal32>
+                <id>132</id>
+                <naziv>limun,grejp</naziv>
+                <cijena>4</cijena>
+            </podartikal32>
+            
+              <podartikal33>
+                <id>133</id>
+                <naziv>Narandza</naziv>
+                <cijena>4</cijena>
+            </podartikal33>
+            
+              <podartikal34>
+                <id>134</id>
+                <naziv>Grejp,narandza</naziv>
+                <cijena>4</cijena>
+            </podartikal34>
+            
+              <podartikal35>
+                <id>135</id>
+                <naziv>Grejp</naziv>
+                <cijena>4</cijena>
+            </podartikal35>
+            </artikal4>
+            
+        
+            <artikal5>
+            <naziv>SOKOVI</naziv>
+            <id>5</id>
+            
+  
+            <podartikal136>
+                <id>136</id>
+                <naziv>Coca-Cola</naziv>
+                <cijena>3</cijena>
+            </podartikal136>
+            
+            
+            <podartikal37>
+                <id>137</id>
+                <naziv>Fanta</naziv>
+                <cijena>3</cijena>
+            </podartikal37>
+            
+            
+             <podartikal38>
+                <id>138</id>
+                <naziv>Sprite</naziv>
+                <cijena>3</cijena>
+            </podartikal38>
+            
+             <podartikal39>
+                <id>139</id>
+                <naziv>Biter lemon</naziv>
+                <cijena>3</cijena>
+            </podartikal39>
+            
+             <podartikal40>
+                <id>140</id>
+                <naziv>Tangarina</naziv>
+                <cijena>3</cijena>
+            </podartikal40>
+            
+             <podartikal41>
+                <id>141</id>
+                <naziv>Viva voda</naziv>
+                <cijena>1.5</cijena>
+            </podartikal41>
+            
+             <podartikal42>
+                <id>142</id>
+                <naziv>tonic water</naziv>
+                <cijena>3</cijena>
+            </podartikal42>
+            
+             <podartikal43>
+                <id>143</id>
+                <naziv>Vitinka kisela</naziv>
+                <cijena>2</cijena>
+            </podartikal43>
+            
+             <podartikal44>
+                <id>144</id>
+                <naziv>Juicy</naziv>
+                <cijena>3</cijena>
+            </podartikal44>
+            
+             <podartikal45>
+                <id>145</id>
+                <naziv>Coca-Cola Zero</naziv>
+                <cijena>3</cijena>
+            </podartikal45>
+            
+             <podartikal46>
+                <id>146</id>
+                <naziv>Ledeni caj</naziv>
+                <cijena>3</cijena>
+            </podartikal46>
+            
+             <podartikal47>
+                <id>147</id>
+                <naziv>Spezi</naziv>
+                <cijena>3</cijena>
+            </podartikal47>
+            
+             <podartikal48>
+                <id>148</id>
+                <naziv>Orangina</naziv>
+                <cijena>3.5</cijena>
+            </podartikal48>
+            
+             <podartikal49>
+                <id>149</id>
+                <naziv>Limona</naziv>
+                <cijena>3</cijena>
+            </podartikal49>
+            </artikal5>
+        
+        
+        
+        <artikal6>
+            <naziv>ZESTOKA PICA</naziv>
+            <id>6</id>
+            
+            
+            <podartikal50>
+                <id>150</id>
+                <naziv>Votka smirnoff 0,3dcl</naziv>
+                <cijena>3,5</cijena>
+            </podartikal50>
+            
+            
+            <podartikal51>
+                <id>151</id>
+                <naziv>Votka absolut 0,3dcl</naziv>
+                <cijena>4</cijena>
+            </podartikal51>
+            
+                   
+            <podartikal52>
+                <id>152</id>
+                <naziv>Stock 0,3dcl</naziv>
+                <cijena>3,5</cijena>
+            </podartikal52>
+            
+            
+            <podartikal53>
+                <id>153</id>
+                <naziv>Jagarmeister 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal53>
+            
+                   
+            <podartikal54>
+                <id>154</id>
+                <naziv>Vlahov 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal54>
+            
+            
+            <podartikal55>
+                <id>155</id>
+                <naziv>Pelinkovac 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal55>
+            
+                   
+            <podartikal56>
+                <id>156</id>
+                <naziv>Tequila 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal56>
+            
+            
+            <podartikal57>
+                <id>157</id>
+                <naziv>Chivas 0,3dcl</naziv>
+                <cijena>6</cijena>
+            </podartikal57>
+            
+                   
+            <podartikal58>
+                <id>158</id>
+                <naziv>Jack Daniels 0,3dcl</naziv>
+                <cijena>5</cijena>
+            </podartikal58>
+            
+            
+            <podartikal59>
+                <id>159</id>
+                <naziv>Ballantines 0,3dcl</naziv>
+                <cijena>4</cijena>
+            </podartikal59>
+            
+                   
+            <podartikal60>
+                <id>160</id>
+                <naziv>Johnnie Walker Red label 0,3dcl</naziv>
+                <cijena>5</cijena>
+            </podartikal60>
+            
+            
+            <podartikal61>
+                <id>161</id>
+                <naziv>Johnnie Walker Black label 0,3dcl</naziv>
+                <cijena>7</cijena>
+            </podartikal61>
+            
+                   
+            <podartikal62>
+                <id>162</id>
+                <naziv>Johnnie Walker Double Black label 0,3dcl</naziv>
+                <cijena>10</cijena>
+            </podartikal62>
+            
+            
+            <podartikal63>
+                <id>163</id>
+                <naziv>Martini 0,3dcl</naziv>
+                <cijena>4</cijena>
+            </podartikal63>
+            
+                   
+            <podartikal64>
+                <id>164</id>
+                <naziv>Bacardi 0,3dcl</naziv>
+                <cijena>4</cijena>
+            </podartikal64>
+            
+            
+            <podartikal65>
+                <id>165</id>
+                <naziv>Baileys 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal65>
+            
+                   
+            <podartikal66>
+                <id>166</id>
+                <naziv>Viljamovka 0,3dcl</naziv>
+                <cijena>5</cijena>
+            </podartikal66>
+            
+            
+            <podartikal67>
+                <id>167</id>
+                <naziv>Gin 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal67>
+            
+                   
+            <podartikal68>
+                <id>168</id>
+                <naziv>White rum 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal68>
+            
+            
+            <podartikal69>
+                <id>169</id>
+                <naziv>Visnjevaca 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal69>
+            
+             <podartikal70>
+                <id>170</id>
+                <naziv>Malibu 0,3dcl</naziv>
+                <cijena>3</cijena>
+            </podartikal70>
+            </artikal6>
+        
+        
+        
+        
+        <artikal7>
+            <naziv>PJENUSAVA PICA </naziv>
+            <id>7</id>
+            
+            
+            <podartikal71>
+                <id>171</id>
+                <naziv>Sampanjac 1 0,75l</naziv>
+                <cijena>50</cijena>
+            </podartikal71>
+            
+            
+            <podartikal72>
+                <id>172</id>
+                <naziv>Sampanjac 2 0,75l</naziv>
+                <cijena>100</cijena>
+            </podartikal72>
+            
+            <podartikal73>
+                <id>173</id>
+                <naziv>Sampanjac Gold</naziv>
+                <cijena>2,5</cijena>
+            </podartikal73>
+        </artikal7>
+        
+        
+        <artikal8>
+            <naziv>KOKTELI</naziv>
+            <id>8</id>
+            
+             <podartikal74>
+                <id>174</id>
+                <naziv>Tequila sunrise</naziv>
+                <cijena>6</cijena>
+            </podartikal74>
+            
+             <podartikal75>
+                <id>175</id>
+                <naziv>Margarita</naziv>
+                <cijena>6</cijena>
+            </podartikal75>
+            
+              <podartikal76>
+                <id>176</id>
+                <naziv>Margarita Trendy</naziv>
+                <cijena>6</cijena>
+            </podartikal76>
+            
+             <podartikal77>
+                <id>177</id>
+                <naziv>Margarita strawberry</naziv>
+                <cijena>6</cijena>
+            </podartikal77>
+            
+            
+             <podartikal78>
+                <id>178</id>
+                <naziv>Bahama mama</naziv>
+                <cijena>8</cijena>
+            </podartikal78>
+            
+             <podartikal79>
+                <id>179</id>
+                <naziv>Cuba libre</naziv>
+                <cijena>6</cijena>
+            </podartikal79>
+            
+              <podartikal80>
+                <id>180</id>
+                <naziv>Pina colada</naziv>
+                <cijena>7</cijena>
+            </podartikal80>
+            
+             <podartikal81>
+                <id>181</id>
+                <naziv>Mojito</naziv>
+                <cijena>7</cijena>
+            </podartikal81>
+            
+             <podartikal82>
+                <id>182</id>
+                <naziv>Black russian</naziv>
+                <cijena>5</cijena>
+            </podartikal82>
+            
+             <podartikal83>
+                <id>183</id>
+                <naziv>White russian</naziv>
+                <cijena>5</cijena>
+            </podartikal83>
+            
+              <podartikal84>
+                <id>184</id>
+                <naziv>Cosmopolitan</naziv>
+                <cijena>5</cijena>
+            </podartikal84>
+            
+             <podartikal85>
+                <id>185</id>
+                <naziv>Blue lagoon</naziv>
+                <cijena>6</cijena>
+            </podartikal85>
+            
+             <podartikal86>
+                <id>186</id>
+                <naziv>Sex in Trendy</naziv>
+                <cijena>7</cijena>
+            </podartikal86>
+            
+             <podartikal87>
+                <id>187</id>
+                <naziv>Gin fizz</naziv>
+                <cijena>6</cijena>
+            </podartikal87>
+            
+              <podartikal88>
+                <id>188</id>
+                <naziv>Lady killer</naziv>
+                <cijena>7</cijena>
+            </podartikal88>
+            
+             <podartikal89>
+                <id>189</id>
+                <naziv>Tom collins</naziv>
+                <cijena>6</cijena>
+            </podartikal89>
+            
+             <podartikal90>
+                <id>190</id>
+                <naziv>Atlantis</naziv>
+                <cijena>6</cijena>
+            </podartikal90>
+            
+             <podartikal91>
+                <id>191</id>
+                <naziv>Caribean blue lagoon</naziv>
+                <cijena>7</cijena>
+            </podartikal91>
+            
+              <podartikal92>
+                <id>192</id>
+                <naziv>Picasso</naziv>
+                <cijena>7</cijena>
+            </podartikal92>
+            
+             <podartikal93>
+                <id>193</id>
+                <naziv>Screaming orgasam</naziv>
+                <cijena>9</cijena>
+            </podartikal93>
+            
+             <podartikal94>
+                <id>194</id>
+                <naziv>Playboy</naziv>
+                <cijena>7</cijena>
+            </podartikal94>
+            
+             <podartikal95>
+                <id>195</id>
+                <naziv>Capirinha</naziv>
+                <cijena>6</cijena>
+            </podartikal95>
+            
+              <podartikal96>
+                <id>196</id>
+                <naziv>Sex on the beach</naziv>
+                <cijena>6</cijena>
+            </podartikal96>
+            
+             <podartikal97>
+                <id>197</id>
+                <naziv>Swiming pool</naziv>
+                <cijena>8</cijena>
+            </podartikal97>
+            
+             <podartikal98>
+                <id>198</id>
+                <naziv>Viagra</naziv>
+                <cijena>7</cijena>
+            </podartikal98>
+            
+             <podartikal99>
+                <id>199</id>
+                <naziv>BBC</naziv>
+                <cijena>8</cijena>
+            </podartikal99>
+            
+              <podartikal100>
+                <id>200</id>
+                <naziv>Adios mother fucker</naziv>
+                <cijena>10</cijena>
+            </podartikal100>
+            
+             <podartikal101>
+                <id>201</id>
+                <naziv>Miami ice tea</naziv>
+                <cijena>8</cijena>
+            </podartikal101>
+            
+             <podartikal102>
+                <id>202</id>
+                <naziv>Psycho</naziv>
+                <cijena>8</cijena>
+            </podartikal102>
+            
+             <podartikal103>
+                <id>203</id>
+                <naziv>Long Island ice tea</naziv>
+                <cijena>8</cijena>
+            </podartikal103>
+            
+              <podartikal104>
+                <id>204</id>
+                <naziv>Virgin Trendy</naziv>
+                <cijena>6</cijena>
+            </podartikal104>
+            
+             <podartikal105>
+                <id>205</id>
+                <naziv>Coconut kiss</naziv>
+                <cijena>5</cijena>
+            </podartikal105>
+            
+             <podartikal106>
+                <id>206</id>
+                <naziv>Captain nemo</naziv>
+                <cijena>5</cijena>
+            </podartikal106>
+            
+             <podartikal107>
+                <id>207</id>
+                <naziv>Virgin sunrise</naziv>
+                <cijena>5</cijena>
+            </podartikal107>
+            
+              <podartikal108>
+                <id>208</id>
+                <naziv>Blow job</naziv>
+                <cijena>5</cijena>
+            </podartikal108>
+            
+             <podartikal109>
+                <id>209</id>
+                <naziv>B-52</naziv>
+                <cijena>5</cijena>
+            </podartikal109>
+            
+             <podartikal110>
+                <id>210</id>
+                <naziv>Fire in the hole</naziv>
+                <cijena>5</cijena>
+            </podartikal110>
+            
+             <podartikal111>
+                <id>211</id>
+                <naziv>Kamikazen</naziv>
+                <cijena>5</cijena>
+            </podartikal111>
+            
+              <podartikal112>
+                <id>212</id>
+                <naziv>Trendy liquid cocain</naziv>
+                <cijena>6</cijena>
+            </podartikal112>
+            
+             <podartikal113>
+                <id>213</id>
+                <naziv>Monkey brain</naziv>
+                <cijena>5</cijena>
+            </podartikal113>
+            
+             <podartikal114>
+                <id>214</id>
+                <naziv>Orgasm</naziv>
+                <cijena>5</cijena>
+            </podartikal114>
+            
+             <podartikal115>
+                <id>215</id>
+                <naziv>Strawberry shot</naziv>
+                <cijena>5</cijena>
+            </podartikal115>
+            
+              <podartikal116>
+                <id>216</id>
+                <naziv>Mojito 1L</naziv>
+                <cijena>15</cijena>
+            </podartikal116>
+            
+             <podartikal117>
+                <id>217</id>
+                <naziv>Sex on the beach 1L</naziv>
+                <cijena>15</cijena>
+            </podartikal117>
+            
+            
+             <podartikal118>
+                <id>218</id>
+                <naziv>Long Island ice tea 1L</naziv>
+                <cijena>20</cijena>
+            </podartikal118>
+            
+             <podartikal119>
+                <id>219</id>
+                <naziv>Adios mother fucker 1L</naziv>
+                <cijena>25</cijena>
+            </podartikal119>
+            
+              <podartikal120>
+                <id>220</id>
+                <naziv>Trendy exotic cocktail</naziv>
+                <cijena>40</cijena>
+            </podartikal120>
+            </artikal8>
+            
+            
+            
+            <artikal9>
+                 <naziv>OSTALI NAPITCI</naziv>
+            <id>9</id>
+            
+            <podartikal121>
+                <id>221</id>
+                <naziv>Cedevita</naziv>
+                <cijena>2</cijena>
+            </podartikal121>
+            
+            <podartikal122>
+                <id>222</id>
+                <naziv>Cockta</naziv>
+                <cijena>3</cijena>
+            </podartikal122>
+            
+             <podartikal123>
+                <id>223</id>
+                <naziv>Sensation</naziv>
+                <cijena>2</cijena>
+            </podartikal123>
+            
+            <podartikal124>
+                <id>224</id>
+                <naziv>Exotic</naziv>
+                <cijena>2</cijena>
+            </podartikal124> 
+            
+            <podartikal125>
+                <id>225</id>
+                <naziv>Red bull</naziv>
+                <cijena>5</cijena>
+            </podartikal125> 
+            
+            <podartikal226>
+                <id>226</id>
+                <naziv>Roster</naziv>
+                <cijena>2,5</cijena>
+            </podartikal226> 
+            
+            <podartikal127>
+                <id>227</id>
+                <naziv>Milk shake</naziv>
+                <cijena>3</cijena>
+            </podartikal127> 
+            
+            <podartikal128>
+                <id>228</id>
+                <naziv>Frape</naziv>
+                <cijena>3</cijena>
+            </podartikal128> 
+            </artikal9>
+        
+        
+         <artikal20>
+                  <naziv>POSLASTICE</naziv>
+            <id>10</id>
+            
+             <podartikal129>
+                <id>229</id>
+                <naziv>Sladoled 1 kugla </naziv>
+                <cijena>1,5</cijena>
+            </podartikal129>
+            
+            <podartikal130>
+                <id>230</id>
+                <naziv> Palacinci sa nutelom </naziv>
+                <cijena>2,5</cijena>
+            </podartikal130> 
+
+            <podartikal131>
+                <id>231</id>
+                <naziv>Split banana</naziv>
+                <cijena>5</cijena>
+            </podartikal131>
+            
+            <podartikal132>
+                <id>232</id>
+                <naziv>Palacinci sa sladoledom</naziv>
+                <cijena>3,5</cijena>
+            </podartikal132>
+            </artikal20>    
+          
+          
+         <artikal21>
+                  <naziv>Nargila</naziv>
+            <id>11</id>
+            
+             
+            <podartikal133>
+                <id>233</id>
+                <naziv>Nargila</naziv>
+                <cijena>6</cijena>
+            </podartikal133>
+            
+             
+            <podartikal134>
+                <id>234</id>
+                <naziv>Nargila Africa</naziv>
+                <cijena>15</cijena>
+            </podartikal134>
+            
+             
+            <podartikal135>
+                <id>235</id>
+                <naziv>Nargila Enestethic</naziv>
+                <cijena>15</cijena>
+            </podartikal135>
+            
+               
+            <podartikal136>
+                <id>236</id>
+                <naziv>Nargila Milk</naziv>
+                <cijena>15</cijena>
+            </podartikal136>
+            </artikal21>    
+          
+          
+         <artikal22>
+                  <naziv>Boat</naziv>
+            <id>12</id>
+            
+             
+            <podartikal137>
+                <id>237</id>
+                <naziv>Double pack</naziv>
+                <cijena>8</cijena>
+            </podartikal137>
+            
+             
+            <podartikal138>
+                <id>238</id>
+                <naziv>Votka boat(6*reb bull+votka 0,7l)</naziv>
+                <cijena>65</cijena>
+            </podartikal138>
+            
+             
+            <podartikal139>
+                <id>239</id>
+                <naziv>Jager boat1(6*reb bull+jagermaister 0,7l)</naziv>
+                <cijena>100</cijena>
+            </podartikal139>
+            
+             
+            <podartikal140>
+                <id>240</id>
+                <naziv>Jager boat2(6*coca-cola+jagermaister 0,7l)</naziv>
+                <cijena>90</cijena>
+            </podartikal140>
+            
+             
+            <podartikal141>
+                <id>241</id>
+                <naziv>Stock boat(6*coca-cola+stock 0,7l)</naziv>
+                <cijena>80</cijena>
+            </podartikal141>
+            
+             <podartikal142>
+                <id>242</id>
+                <naziv>Gin boat(6*coca-cola+gin 0,7l)</naziv>
+                <cijena>60</cijena>
+            </podartikal142>
+            </artikal22>    
+   </artikli>
+ 
+</root>
